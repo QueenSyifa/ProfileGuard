@@ -38,15 +38,7 @@ threads = []
 berhasil = []
 cekpoint = []
 gagal = []
-idteman = []
-idfromteman = []
-idmem = []
 id = []
-em = []
-emfromteman = []
-hp = []
-hpfromteman = []
-
 
 def login():
     os.system('clear')
@@ -145,7 +137,8 @@ def menu():
     os.system('clear')
     print logo
     print '\x1b[1;91m[\x1b[1;96m\xe2\x9c\x93\x1b[1;91m]\x1b[1;97m Nama \x1b[1;91m: \x1b[1;92m' + nama
-    print '\n\x1b[1;37;40m1. Aktifkan'
+    print '\n\x1b[1;37;40mProfile Guard'
+    print '\x1b[1;37;40m1. Aktifkan'
     print '\x1b[1;37;40m2. NonAktifkan'
     print
     g = raw_input('\x1b[1;91m-\xe2\x96\xba\x1b[1;97m ')
