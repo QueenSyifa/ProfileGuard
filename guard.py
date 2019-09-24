@@ -136,7 +136,7 @@ def menu():
 
     os.system('clear')
     print logo
-    print '\x1b[1;91m[\x1b[1;96m\xe2\x98\x86[1;91m]\x1b[1;97m Tool \x1b[1;91m: \x1b[1;92mProfile Guard'
+    print '\x1b[1;91m[\x1b[1;96m\xe2\x97\x8f\x1b[1;91m]\x1b[1;97m Tool \x1b[1;91m: \x1b[1;92mProfile Guard'
     print '\x1b[1;91m[\x1b[1;96m\xe2\x9c\x93\x1b[1;91m]\x1b[1;97m Nama \x1b[1;91m: \x1b[1;92m' + nama
     print '\n\x1b[1;37;40m1. Aktifkan'
     print '\x1b[1;37;40m2. NonAktifkan'
